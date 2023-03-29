@@ -4,4 +4,3 @@ from ExerciseFunctions import water_state
 
 temperature = float(input("Enter the temperature of the water in celsius: "))
 print(water_state(temperature))
-
